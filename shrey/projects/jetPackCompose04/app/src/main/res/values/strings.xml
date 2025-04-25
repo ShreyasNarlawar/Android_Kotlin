@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">jetPackCompose04</string>
+    <string name="placeholder_search">Search\n</string>
+    <string name="dog">cute Dog\n</string>
+    <string name="cat">Cat\n</string>
+    <string name="rabbit">Rabbit\n</string>
+    <string name="tortoise">Tortoise\n</string>
+    <string name="nature01">Kids\n</string>
+    <string name="nature02">Meditation\n</string>
+    <string name="nature03">Overwhelmed\n</string>
+    <string name="nature04">Self Message\n</string>
+    <string name="nature05">Short Mantras</string>
+    <string name="nature06">wind down</string>
+    <string name="rat">Mouse</string>
+    <string name="monkey">Monkey</string>
+    <string name="peacock">Peacock\n</string>
+    <string name="ostrich">Ostrich</string>
+    <string name="PetImages">Pet Profiles</string>
+    <string name="NatureImages">Nature Collection</string>
+    <string name="bottomNavigation_profile">Profile</string>
+    <string name="bottomNavigation_home">Home</string>
+</resources>

@@ -1,0 +1,9 @@
+When using var, you can change the value whenever you want.
+
+The val keyword is useful when you want a variable to always store the same value, like PI (3.14159...).
+
+OOP helps to keep the Kotlin code DRY "Don't Repeat Yourself".
+
+Use the open keyword in front of the superclass/parent, to make this the class other classes should inherit properties and functions from.
+
+To inherit from a class, specify the name of the subclass, followed by a colon :, and then the name of the superclass.
